@@ -1,4 +1,4 @@
-use docrob;
+use hippo_docrob;
 
 DROP TABLE IF EXISTS albums;
 
